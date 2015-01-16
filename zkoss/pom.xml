@@ -29,6 +29,16 @@
 			<url>http://www.fdvs.com.ar/djmaven2</url>
 			<name>DynamicJasper public Repository</name>
 		</repository>
+		<repository>
+			<id>archiva.fdvs.com.ar maven2 repo</id>
+			<url>http://archiva.fdvs.com.ar/repository/public1/</url>
+			<name>DynamicJasper public Repository</name>
+		</repository>
+		<repository>
+			<id>trg-dao-repo-new</id>
+			<name>Repository for The Revere Group's Hibernate Generic DAO framework</name>
+			<url>http://maven.petalslink.com/repo/</url>
+		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
