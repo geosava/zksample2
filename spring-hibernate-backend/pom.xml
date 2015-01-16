@@ -35,6 +35,11 @@
 			<id>com.springsource.repository.bundles.release</id>
 			<url>http://repository.springsource.com/maven/bundles/release/</url>
 		</repository>
+		<repository>
+			<id>trg-dao-repo-new</id>
+			<name>Repository for The Revere Group's Hibernate Generic DAO framework</name>
+			<url>http://maven.petalslink.com/repo/</url>
+		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
